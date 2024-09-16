@@ -22,6 +22,6 @@ public class MainActivity extends AppCompatActivity {
         });
 
 //        Updated to suit latest android
-        
+
     }
 }
