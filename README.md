@@ -10,7 +10,7 @@
 # How to Implement Module
 To get a Git project into your build:
 > Step 1. download admobads folder and import module
-<img src="https://raw.githubusercontent.com/hemucode/AdmobAds/main/images/import.png" width="250"  alt="DEMO"/>
+<img src="https://raw.githubusercontent.com/hemucode/AdmobAds/main/images/import.png" width="100%"  alt="DEMO"/>
 
 > Step 2. Add the dependency
 
