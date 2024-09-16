@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="NativeTemplateView">
+        <attr name="codehemu_template_type" format="reference"/>
+    </declare-styleable>
+</resources>
