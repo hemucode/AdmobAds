@@ -7,27 +7,18 @@
  Implement admob ads in your android app.
 
 
-# How to Implement
+# How to Implement Module
 To get a Git project into your build:
-> Step 1. Add the JitPack repository to your build file
+> Step 1. download admobads folder and import module
+<img src="https://raw.githubusercontent.com/hemucode/AdmobAds/main/images/import.png" width="250"  alt="DEMO"/>
 
-Add it in your root build.gradle at the end of repositories: <br/>
-```gradle
-allprojects {
-	repositories {
-		...
-		maven { url 'https://jitpack.io' }
-	}
-}
-```
-    
 > Step 2. Add the dependency
 
 Add it in your root app.gradle at the end of repositories: <br/>
 ```gradle
 dependencies {
 	...
-	implementation 'com.github.hemucode:AdmobAds:1.0.0'
+	    implementation project(':admobads')
 	...
 }
 ```
